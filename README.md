@@ -1,4 +1,4 @@
-![Muhamad Zidan's card name](https://cardivo.vercel.app/api?name=Azhar%20Rizki%20Zulma&description=Hi,%20i%27m%20a%20Developer,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://mineversal.com/assets/img/Zidan.jpeg&instagram=zida_n02&linkedin=Muhamad%20Zidan&github=thellost&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&)
+![Muhamad Zidan's card name](https://cardivo.vercel.app/api?name=Muhamad%20Zidan&description=Hi,%20i%27m%20a%20Unity%20Developer,%20Multiplatform,%20and%20Fullstack%20developer%20with%20a%20demonstrated%20history%20of%20working%20in%20the%20information%20technology%20industry%20%F0%9F%91%8B&image=https://mineversal.com/assets/img/Zidan.jpeg&instagram=zida_n02&linkedin=Muhamad%20Zidan&github=thellost&pattern=floatingCogs&opacity=0.1&backgroundColor=%23ddd&)
 
 ## 📈 Github Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=thellost)
 <p align="left">
